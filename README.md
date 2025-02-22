@@ -11,5 +11,6 @@
 Bem-vindo ao meu repositório de projetos de análise de dados com Power BI! Aqui você encontrará dashboards interativos que destacam minhas habilidades em modelagem de dados, visualização, inteligência de negócios e análise.
 
 ## Sobre
-Sou bacharel em Ciências Econômicas e apaixonada por dados, com ampla experiência em Power BI. Especialista no desenvolvimento de relatórios e dashboards interativos que transformam dados em insights estratégicos, auxiliando empresas na tomada de decisões assertivas. Este portfólio reflete minha expertise em Power BI e minha habilidade em comunicar visualmente informações complexas de forma eficaz.
-- Conecte-se comigo: https://www.linkedin.com/in/thayanneramires
+Sou bacharel em Ciências Econômicas e apaixonada por dados, com ampla experiência em Power BI. Especialista no desenvolvimento de relatórios e dashboards interativos que transformam dados em insights estratégicos, auxiliando empresas na tomada de decisões assertivas. Este portfólio reflete minha expertise em Power BI e minha habilidade em comunicar visualmente informações complexas de forma eficaz. 
+<a href = "mailto:thayanneramires@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thayanneramires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
