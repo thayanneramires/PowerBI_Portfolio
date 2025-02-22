@@ -16,3 +16,6 @@ Sou bacharel em Ciências Econômicas e apaixonada por dados, com ampla experiê
 **Conecte-se comigo:**  
 📧 **Email:** [thayanneramires@gmail.com](mailto:thayanneramires@gmail.com)  
 💼 **LinkedIn:** [thayanneramires](https://www.linkedin.com/in/thayanneramires/)
+
+---
+## Financeiro: DRE
