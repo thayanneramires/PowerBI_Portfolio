@@ -18,4 +18,8 @@ Sou bacharel em Ciências Econômicas e apaixonada por dados, com ampla experiê
 💼 **LinkedIn:** [thayanneramires](https://www.linkedin.com/in/thayanneramires/)
 
 ---
-## Financeiro: DRE
+## Projeto 1: DRE
+Apresento um robusto relatório de Demonstração do Resultado do Exercício (DRE), com análise vertical e horizontal. A análise vertical destaca a representatividade de cada conta em relação ao faturamento, enquanto a horizontal permite acompanhar a evolução dos valores ao longo do tempo. Disponível em visões mensal, trimestral e anual para uma análise financeira detalhada.
+
+![DRE](https://github.com/user-attachments/assets/59ee1ee7-4739-49ba-9e6d-9401a44eb057)
+
