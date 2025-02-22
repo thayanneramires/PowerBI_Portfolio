@@ -24,3 +24,5 @@ Apresento um robusto relatório de Demonstração do Resultado do Exercício (DR
 ![DRE](https://github.com/user-attachments/assets/59ee1ee7-4739-49ba-9e6d-9401a44eb057)
 
 ## Projeto 2: DFC
+Relatório completo de Demonstração de Fluxo de Caixa (DFC), abrangendo a visão realizada e projetada. A DFC realizada detalha os valores efetivamente pagos e recebidos, enquanto a projetada estima o fluxo futuro com base nas contas a pagar e a receber. Um parâmetro dinâmico permite simular diferentes taxas de inadimplência para boletos, e uma flag opcional adiciona a meta de vendas ao cálculo de valor a receber.
+![DFC](https://github.com/user-attachments/assets/720c5380-efd9-4c08-bff5-5478bbc90657)
