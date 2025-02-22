@@ -24,4 +24,5 @@ Demonstração do Resultado do Exercício (DRE) com análise vertical e horizont
 
 ## Projeto 2: DFC
 Demonstração de Fluxo de Caixa (DFC) abrangendo a visão realizada e projetada. A DFC realizada detalha os valores efetivamente pagos e recebidos, enquanto a projetada estima o fluxo futuro com base nas contas a pagar e a receber. Um parâmetro dinâmico permite simular diferentes taxas de inadimplência para boletos, e uma flag opcional adiciona a meta de vendas ao cálculo de valor a receber.
+
 ![DFC](https://github.com/user-attachments/assets/720c5380-efd9-4c08-bff5-5478bbc90657)
