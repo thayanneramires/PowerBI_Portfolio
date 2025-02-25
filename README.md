@@ -17,17 +17,21 @@ Sou bacharel em Ciências Econômicas e apaixonada por dados, com ampla experiê
 💼 **LinkedIn:** [thayanneramires](https://www.linkedin.com/in/thayanneramires/)
 
 ---
-## Projeto 1: Comercial
+## Comercial
 Este relatório apresenta uma análise detalhada do desempenho comercial ao longo do tempo. Inclui indicadores como faturamento bruto e líquido, devoluções, CMV, margem bruta e ticket médio. Também exibe dados sobre positivação de clientes e produtos, cobertura de mercado e a evolução mensal do faturamento em comparação com as metas estabelecidas.
 
 ![Comercial](https://github.com/user-attachments/assets/090bb779-51bf-4bf2-85d1-dd7b0b9da07c)
 
-## Projeto 2: DRE
+## Estoque
+Relatório de estoque estratégico, oferecendo uma visão completa da gestão de produtos. Com parâmetros dinâmicos, permite simular a necessidade de reposição e classifica a posição do estoque em crítico, ruptura, baixo, ideal, alto e excesso. Apresenta análises detalhadas das quantidades disponível, reservada, bloqueada e avariada, além de gráficos que acompanham a evolução do saldo, entradas e saídas ao longo do tempo. Inclui também segmentação por classes ABC, PQR, 123 e XYZ, proporcionando insights sobre o comportamento dos itens.
+
+
+## DRE
 Demonstração do Resultado do Exercício (DRE) com análise vertical e horizontal. A análise vertical destaca a representatividade de cada conta em relação ao faturamento, enquanto a horizontal permite acompanhar a evolução dos valores ao longo do tempo. Disponível em visões mensal, trimestral e anual para uma análise financeira detalhada.
 
 ![DRE](https://github.com/user-attachments/assets/59ee1ee7-4739-49ba-9e6d-9401a44eb057)
 
-## Projeto 3: DFC
+## DFC
 Demonstração de Fluxo de Caixa (DFC) abrangendo a visão realizada e projetada. A DFC realizada detalha os valores efetivamente pagos e recebidos, enquanto a projetada estima o fluxo futuro com base nas contas a pagar e a receber. Um parâmetro dinâmico permite simular diferentes taxas de inadimplência para boletos, e uma flag opcional adiciona a meta de vendas ao cálculo de valor a receber.
 
 ![DFC](https://github.com/user-attachments/assets/720c5380-efd9-4c08-bff5-5478bbc90657)
