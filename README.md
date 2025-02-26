@@ -25,6 +25,12 @@ Este relatório apresenta uma análise detalhada do desempenho comercial ao long
 ## Estoque
 Relatório de estoque estratégico, oferecendo uma visão completa da gestão de produtos. Com parâmetros dinâmicos, permite simular a necessidade de reposição e classifica a posição do estoque em crítico, ruptura, baixo, ideal, alto e excesso. Apresenta análises detalhadas das quantidades disponível, reservada, bloqueada e avariada, além de gráficos que acompanham a evolução do saldo, entradas e saídas ao longo do tempo. Inclui também segmentação por classes ABC, PQR, 123 e XYZ, proporcionando insights sobre o comportamento dos itens.
 
+![Estoque](https://github.com/user-attachments/assets/97bfc5d3-e51c-4eee-bcad-569d5e103539)
+
+## Logística
+Relatório de desempenho logístico com uma visão detalhada das entregas e sua eficiência. Apresenta KPIs essenciais, como On Time In Full (OTIF), On Time (OT) e In Full (IF), além da análise de devoluções por motivo e da evolução do nível de serviço ao longo do tempo. Inclui uma linha do tempo com todas as etapas do pedido, da origem até o status de entrega atual. Conta com filtros dinâmicos para refinar as informações por período, filial, rota e outros critérios, proporcionando uma gestão estratégica da logística.
+
+![Logistica](https://github.com/user-attachments/assets/34040833-bb50-4a98-a307-62348633c177)
 
 ## DRE
 Demonstração do Resultado do Exercício (DRE) com análise vertical e horizontal. A análise vertical destaca a representatividade de cada conta em relação ao faturamento, enquanto a horizontal permite acompanhar a evolução dos valores ao longo do tempo. Disponível em visões mensal, trimestral e anual para uma análise financeira detalhada.
