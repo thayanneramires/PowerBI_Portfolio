@@ -32,6 +32,11 @@ Relatório de desempenho logístico com uma visão detalhada das entregas e sua 
 
 ![Logistica](https://github.com/user-attachments/assets/34040833-bb50-4a98-a307-62348633c177)
 
+## RH
+Dashboard de Recursos Humanos com uma abordagem visual e intuitiva que facilita a gestão de pessoas. Apresenta indicadores essenciais como número de colaboradores ativos, contratações, desligamentos, turnover e o índice de receita por colaborador, uma métrica crucial para entender como a força de trabalho contribui para a receita da empresa. Também oferece análises sobre distribuição etária, tempo de empresa e representatividade por gênero, além de acompanhar a evolução das contratações ao longo do tempo, turnover mensal e a distribuição de funcionários por setor. 
+
+![RH](https://github.com/user-attachments/assets/5ee1830d-652b-4384-9f1a-8d764dde8ede)
+
 ## DRE
 Demonstração do Resultado do Exercício (DRE) com análise vertical e horizontal. A análise vertical destaca a representatividade de cada conta em relação ao faturamento, enquanto a horizontal permite acompanhar a evolução dos valores ao longo do tempo. Disponível em visões mensal, trimestral e anual para uma análise financeira detalhada.
 
