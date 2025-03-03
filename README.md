@@ -32,17 +32,23 @@ Relatório de desempenho logístico com uma visão detalhada das entregas e sua 
 
 ![Logistica](https://github.com/user-attachments/assets/34040833-bb50-4a98-a307-62348633c177)
 
+## TI
+Dashboard de Gestão de Chamados de TI que oferece uma análise do suporte técnico. Apresenta o total de chamados, status de atendimento, tempo médio de serviço e desempenho do SLA. Também inclui análises por prioridade, tópicos mais recorrentes e atuação dos agentes, facilitando a tomada de decisão e a otimização dos processos de suporte.
+
+![TI](https://github.com/user-attachments/assets/fce82b67-4c97-44cd-87ea-fb8254d516a7)
+
 ## RH
 Dashboard de Recursos Humanos com uma abordagem visual e intuitiva que facilita a gestão de pessoas. Apresenta indicadores essenciais como número de colaboradores ativos, contratações, desligamentos, turnover e o índice de receita por colaborador, uma métrica crucial para entender como a força de trabalho contribui para a receita da empresa. Também oferece análises sobre distribuição etária, tempo de empresa e representatividade por gênero, além de acompanhar a evolução das contratações ao longo do tempo, turnover mensal e a distribuição de funcionários por setor. 
 
 ![RH](https://github.com/user-attachments/assets/5ee1830d-652b-4384-9f1a-8d764dde8ede)
 
-## DRE
+## Financeiro
+### DRE
 Demonstração do Resultado do Exercício (DRE) com análise vertical e horizontal. A análise vertical destaca a representatividade de cada conta em relação ao faturamento, enquanto a horizontal permite acompanhar a evolução dos valores ao longo do tempo. Disponível em visões mensal, trimestral e anual para uma análise financeira detalhada.
 
 ![DRE](https://github.com/user-attachments/assets/59ee1ee7-4739-49ba-9e6d-9401a44eb057)
 
-## DFC
+### DFC
 Demonstração de Fluxo de Caixa (DFC) abrangendo a visão realizada e projetada. A DFC realizada detalha os valores efetivamente pagos e recebidos, enquanto a projetada estima o fluxo futuro com base nas contas a pagar e a receber. Um parâmetro dinâmico permite simular diferentes taxas de inadimplência para boletos, e uma flag opcional adiciona a meta de vendas ao cálculo de valor a receber.
 
 ![DFC](https://github.com/user-attachments/assets/720c5380-efd9-4c08-bff5-5478bbc90657)
